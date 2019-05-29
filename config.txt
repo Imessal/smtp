@@ -1,0 +1,3 @@
+name=Рикардо Милос
+recipients=ricardo.poperdelli@yandex.ru
+topic=оляля
